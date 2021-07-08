@@ -6,4 +6,4 @@ It is the database used for a fictional company run by the three authors above. 
 
 The database was created using Azure data studio on an azure lab virtual machine. The files included are for our create statements and select statements. Also included are various diagrams and powerpoint used in the project.
 
-![alt text](master/NQL_Logo.PNG?raw=true)
+![alt text](https://github.com/matt0681/Databases-Course-Project/master/NQL_Logo.PNG?raw=true)
