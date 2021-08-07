@@ -8,3 +8,5 @@ The database was created using Azure data studio on an azure lab virtual machine
 
 ![alt text](https://github.com/matt0681/Databases-Course-Project/blob/master/Data%20Model.PNG?raw=true)
 ![alt text](https://github.com/matt0681/Databases-Course-Project/blob/master/NQL_Logo.PNG?raw=true)
+
+-Matthew Lad, 2020
