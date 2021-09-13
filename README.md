@@ -1,4 +1,4 @@
-# Databases-Course-Project
+# National Quidditch League Database
 
 This project was created by Matthew Lad, Jennifer Stone, and Caleb Covert at Samford University as the final project for a Databases Course.
 
